@@ -1,4 +1,4 @@
-# AttentiveNormalization_pytoch  
+# Unofficial Implementation of AttentiveNormalization on Pytoch  
 ## Caution  
 No verification experiments have been done yet.  
 Only experimental code exists.  
